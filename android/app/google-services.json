@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14155057690",
+    "project_id": "cloudfirestore-filtering",
+    "storage_bucket": "cloudfirestore-filtering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14155057690:android:a4ab6cf7103ad31f2a5fa3",
+        "android_client_info": {
+          "package_name": "com.example.filtering_cloud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWDWi_CUDZfPH5INQHnebZyDm-yR5jB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
